@@ -1,16 +1,39 @@
-## Hi there 👋
+## I'm waxodium 😵‍💫
+- 📜 Self-taught engineer
+- 👦 A 14 year old while being a:
+  - 🧑‍🎓 student & 🧑‍💻 developer
+- 🌱 I’m currently learning C
+- 📫 How to reach me:
+  - waxory (discord)
+  - waxodium@proton.me (email)
+- 😄 Pronouns: he/him
+- 🧭 Would love to get help from anyone through my journey
 
-<!--
-**waxodium/waxodium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## waxodium's history archive 🗃️
+<img align="right" width="150" height="130" alt="cat-shieldgif" src="https://github.com/user-attachments/assets/899202d0-fb7e-4a47-967b-3b95a51e0c34" />
 
-Here are some ideas to get you started:
+- Worked with [sheh (Shell Exposed HTTP)](https://github.com/waxodium/sheh)
+- Knows a tiny bit of C
+- Used to program with JavaScript and Node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+## My Interests ❤️
+``offline software ⛔📶`` ``creative software 🖌️`` ``food 🍕`` 
+
+``things that shouldn't work but do 🤷``
+
+``aestheic 💮`` ``portable software 👜``
+``crossplatform software 📱💻📺``
+
+---
+
+<p align="center">
+  <img width="112" height="112" alt="frog" src="https://github.com/user-attachments/assets/ba08403e-a0fa-4c26-a979-363c0ef7c364"/>
+</p>
+<p align="center">
+  Goodbye!
+</p>

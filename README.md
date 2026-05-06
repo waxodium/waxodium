@@ -1,5 +1,6 @@
 ## I'm waxodium 😵‍💫
 - 📜 Self-taught engineer
+- 💻 Traditional programmer 
 - 👦 A 14 year old while being a:
   - 🧑‍🎓 student & 🧑‍💻 developer
 - 🌱 I’m currently learning C

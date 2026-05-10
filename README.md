@@ -14,7 +14,7 @@
 <img align="right" width="150" height="130" alt="cat-shieldgif" src="https://github.com/user-attachments/assets/899202d0-fb7e-4a47-967b-3b95a51e0c34" />
 
 - Worked with [sheh (Shell Exposed HTTP)](https://github.com/waxodium/sheh)
-- An Early Intermediate C
+- Created [fcsh](https://github.com/waxodium/fcsh)
 - Used to program with JavaScript and Node.js
 
 ![C](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

@@ -36,5 +36,5 @@
   Goodbye!
 </p>
 <p align ="center">
-  I'm open to make cool things. And I also want to make more friends and connect with you all, both professionally and informally 
+  I'm open to make cool things. And I also want to make more friends and connect with you all
 </p>

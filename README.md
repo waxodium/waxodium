@@ -23,12 +23,9 @@
 
 
 ## My Interests ❤️
-``offline software ⛔📶`` ``creative software 🖌️`` ``food 🍕`` 
-
-``things that shouldn't work but do 🤷``
-
-``aestheic 💮`` ``portable software 👜``
-``crossplatform software 📱💻📺``
+``offline software ⛔📶`` 
+``creative software 🖌️`` ``food 🍕`` 
+``aestheic 💮``
 
 ---
 
@@ -39,5 +36,5 @@
   Goodbye!
 </p>
 <p align ="center">
-  I'm open to make cool things
+  I'm open to make cool things. And I also want to make more friends and connect with you all, both professionally and informally 
 </p>

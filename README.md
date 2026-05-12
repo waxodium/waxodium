@@ -8,12 +8,13 @@
   - waxory (discord)
   - waxodium@proton.me (email)
 - 😄 Pronouns: he/him
+- 🔨 Actively developing
 - 🧭 Would love to get help from anyone through my journey
 
 ## waxodium's history archive 🗃️
 <img align="right" width="150" height="130" alt="cat-shieldgif" src="https://github.com/user-attachments/assets/899202d0-fb7e-4a47-967b-3b95a51e0c34" />
 
-- Worked with [sheh (Shell Exposed HTTP)](https://github.com/waxodium/sheh)
+- Worked on [sheh (Shell Exposed HTTP)](https://github.com/waxodium/sheh)
 - Created [fcsh – friendly C-shell](https://github.com/waxodium/fcsh)
 - Contributed to [CGTerm](https://github.com/MasterArd/CGTerm)
 

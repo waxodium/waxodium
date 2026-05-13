@@ -16,7 +16,7 @@
 
 - Worked on [sheh (Shell Exposed HTTP)](https://github.com/waxodium/sheh)
 - Created [fcsh – friendly C-shell](https://github.com/waxodium/fcsh)
-- Contributed to [CGTerm](https://github.com/MasterArd/CGTerm)
+- Contributed to [CGTerm](https://github.com/MasterArd/CGTerm) 
 
 ![C](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -28,6 +28,8 @@
 ``creative software 🖌️`` ``food 🍕`` 
 ``aestheic 💮``
 
+## Hmmm?
+- Check my [collections.md](./collections.md)
 ---
 
 <p align="center">

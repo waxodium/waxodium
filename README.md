@@ -1,4 +1,6 @@
 ## I'm waxodium 😵‍💫
+![](https://komarev.com/ghpvc/?username=waxodium&color=ff69b4&style=for-the-badge&label=VISITORS)
+
 - 📜 Self-taught engineer
 - 💻 Traditional programmer 
 - 👦 A 14 year old while being a:

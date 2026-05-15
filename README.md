@@ -1,5 +1,5 @@
 ## I'm waxodium 😵‍💫
-![](https://komarev.com/ghpvc/?username=waxodium&color=ff69b4&style=for-the-badge&label=VISITORS)
+![](https://komarev.com/ghpvc/?username=waxodium&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 - 📜 Self-taught engineer
 - 💻 Traditional programmer 

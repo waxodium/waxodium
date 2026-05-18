@@ -5,7 +5,7 @@
 - 💻 Traditional programmer 
 - 👦 A 14 year old while being a:
   - 🧑‍🎓 student & 🧑‍💻 developer
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C (intermediate)
 - 📫 How to reach me:
   - waxory (discord)
   - waxodium@proton.me (email)
@@ -20,15 +20,24 @@
 - Created [fcsh – friendly C-shell](https://github.com/waxodium/fcsh)
 - Contributed to [CGTerm](https://github.com/MasterArd/CGTerm) 
 
+### Stacks
 ![C](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge&logo=gnu&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+### Platform
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="90" height="90" />
 
 ## My Interests ❤️
-``offline software ⛔📶`` 
-``creative software 🖌️`` ``food 🍕`` 
-``aestheic 💮``
+`creative software 🖌️` `food 🍕` 
+`aestheic 💮` `oss`
 
 ## Hmmm?
 - Check my [collections.md](./collections.md)

@@ -1,6 +1,6 @@
 ## I'm waxodium 😵‍💫
 - 📜 Self-taught engineer
-- 💻 Traditional programmer 
+- 💻 Recreational programmer 
 - 👦 A 14 year old while being a:
   - 🧑‍🎓 student & 🧑‍💻 developer
 - 🌱 I’m currently learning C (intermediate)
@@ -14,8 +14,8 @@
 ## waxodium's history archive 🗃️
 <img align="right" width="150" height="130" alt="cat-shieldgif" src="https://github.com/user-attachments/assets/899202d0-fb7e-4a47-967b-3b95a51e0c34" />
 
-- Worked on [sheh (Shell Exposed HTTP)](https://github.com/waxodium/sheh)
-- Created [fcsh – friendly C-shell](https://github.com/waxodium/fcsh)
+- Created [sheh (Shell Exposed HTTP)](https://github.com/waxodium/sheh)
+- Created [fash — Fast Again Shell](https://github.com/waxodium/fash)
 - Contributed to [CGTerm](https://github.com/MasterArd/CGTerm) 
 
 ### Stacks

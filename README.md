@@ -1,5 +1,7 @@
-## I'm waxodium 😵‍💫
-- 📜 Self-taught engineer
+<img align="center" width="150" height="130" alt="cat-shieldgif" src="https://github.com/user-attachments/assets/899202d0-fb7e-4a47-967b-3b95a51e0c34"/>
+
+## I'm waxodium 🍃
+- 📜 Self-taught
 - 💻 Recreational programmer 
 - 👦 A 14 year old while being a:
   - 🧑‍🎓 student & 🧑‍💻 developer
@@ -12,8 +14,6 @@
 - 🧭 Would love to get help from anyone through my journey
 
 ## waxodium's history archive 🗃️
-<img align="right" width="150" height="130" alt="cat-shieldgif" src="https://github.com/user-attachments/assets/899202d0-fb7e-4a47-967b-3b95a51e0c34" />
-
 - Created [sheh (Shell Exposed HTTP)](https://github.com/waxodium/sheh)
 - Created [fash — Fast Again Shell](https://github.com/waxodium/fash)
 - Contributed to [CGTerm](https://github.com/MasterArd/CGTerm) 
@@ -46,7 +46,4 @@
 </p>
 <p align="center">
   Goodbye!
-</p>
-<p align ="center">
-  I'm open to make cool things. And I also want to make more friends and connect with you all
 </p>

@@ -16,6 +16,7 @@
 ## waxodium's history archive 🗃️
 - Created [sheh (Shell Exposed HTTP)](https://github.com/waxodium/sheh)
 - Created [turgen — Turgen, the fast paced Shell](https://github.com/waxodium/turgen)
+- Owned [sout (string out C library)](https://github.com/waxodium/sout)
 - Contributed to [CGTerm](https://github.com/MasterArd/CGTerm) 
 
 ### Stacks

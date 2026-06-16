@@ -10,12 +10,12 @@
   - waxory (discord)
   - waxodium@proton.me (email)
 - 😄 Pronouns: he/him
-- 🔨 Actively developing
+- 🔨 Actively developing [turgen shell](https://github.com/waxodium/turgen)
 - 🧭 Would love to get help from anyone through my journey
 
 ## waxodium's history archive 🗃️
 - Created [sheh (Shell Exposed HTTP)](https://github.com/waxodium/sheh)
-- Created [fash — Fast Again Shell](https://github.com/waxodium/fash)
+- Created [turgen — Turgen, the fast paced Shell](https://github.com/waxodium/turgen)
 - Contributed to [CGTerm](https://github.com/MasterArd/CGTerm) 
 
 ### Stacks

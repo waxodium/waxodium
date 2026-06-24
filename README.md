@@ -14,14 +14,17 @@
 - 🧭 Would love to get help from anyone through my journey
 
 ## waxodium's history archive 🗃️
-- Created [sheh (Shell Exposed HTTP)](https://github.com/waxodium/sheh)
-- Created [turgen — Turgen, the fast paced Shell](https://github.com/waxodium/turgen)
+- Maintaining [turgen — The fast paced Shell](https://github.com/waxodium/turgen)
+- Created [tickterm, The terminal clock app](https://github.com/waxodium/tickterm)
+- Developed [sheh (Shell Exposed HTTP)](https://github.com/waxodium/sheh)
 - Owned [sout (string out C library)](https://github.com/waxodium/sout)
 - Contributed to [CGTerm](https://github.com/MasterArd/CGTerm) 
 
-### Stacks
+### Used Stacks
 ![C](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Nim](https://img.shields.io/badge/-Nim-FFE953?style=for-the-badge&logo=nim&logoColor=333333)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Tools
@@ -30,9 +33,14 @@
 ![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge&logo=gnu&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Nimble](https://img.shields.io/badge/Nimble-FFC200?style=for-the-badge&logo=nim&logoColor=white)
 
-### Platform
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="90" height="90" />
+### Current Developing Platform
+| Machine | Distro |
+| :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="90" height="90" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="90" height="90" />|
+
+
 
 ## My Interests ❤️
 `creative software 🖌️` `food 🍕` 

@@ -35,12 +35,13 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Nimble](https://img.shields.io/badge/Nimble-FFC200?style=for-the-badge&logo=nim&logoColor=white)
 
-### Current Developing Platform
-| Machine | Distro |
+### Main Developing Platform
+| Machine | Distro | 
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="90" height="90" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="90" height="90" />|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="90" height="90" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" width="90" height="90" />|
 
-
+### Substitute Developing Platform
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="90" height="90" />
 
 ## My Interests ❤️
 `creative software 🖌️` `food 🍕` 

@@ -15,7 +15,7 @@
 
 ## waxodium's history archive 🗃️
 - Maintaining [turgen — The fast paced Shell](https://github.com/waxodium/turgen)
-- Created [tickterm, The terminal clock app](https://github.com/waxodium/tickterm)
+- Created [OroClock, The terminal clock app](https://github.com/waxodium/oroclock)
 - Developed [sheh (Shell Exposed HTTP)](https://github.com/waxodium/sheh)
 - Owned [sout (string out C library)](https://github.com/waxodium/sout)
 - Contributed to [CGTerm](https://github.com/MasterArd/CGTerm) 

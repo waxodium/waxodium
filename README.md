@@ -1,39 +1,35 @@
-<div align="center">
 
-<img src="https://github.com/user-attachments/assets/899202d0-fb7e-4a47-967b-3b95a51e0c34" width="130" height="110" alt="cat-shieldgif" />
 
-# waxodium 🍃
+# waxodium
+`14yo` · `Recreational Programmer` · `he/him`
 
-`🧑‍🎓 student` · `🧑‍💻 developer` · `👦 14 years old`
+<br>
 
-📜 Self-taught recreational programmer consistently learning stuffs.
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@waxodium)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@waxodium)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/waxodium)
+[![Discord](https://img.shields.io/badge/Discord-waxory-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Email](https://img.shields.io/badge/Email-waxodium%40proton.me-6DA55F?style=for-the-badge&logo=proton&logoColor=white)](mailto:waxodium@proton.me)
 
-🧭 Always open to help and learning from others.
-
-[![Discord](https://img.shields.io/badge/Discord-waxory-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
-[![Email](https://img.shields.io/badge/Email-waxodium%40proton.me-222?style=flat-square&logo=proton&logoColor=white)](mailto:waxodium@proton.me)
-
-</div>
 
 ---
 
-### 🗃️ History Archive
-* Maintaining [turgen — The fast paced Shell](https://github.com/waxodium/turgen)
-* Developed [sheh (Shell Exposed HTTP)](https://github.com/waxodium/sheh)
-* Created [OroClock, The terminal clock app](https://github.com/waxodium/oroclock)
-* Owned [sout (string out C library)](https://github.com/waxodium/sout)
-* 🤝 Contributed to [CGTerm](https://github.com/MasterArd/CGTerm)
+### 📂 History Archive
 
----
+- **[turgen](https://github.com/waxodium/turgen)**: Fast-paced Shell
+- **[sheh](https://github.com/waxodium/sheh)**: Shell Exposed HTTP
+- **[OroClock](https://github.com/waxodium/oroclock)**: Terminal clock app
+- **[sout](https://github.com/waxodium/sout)**: String out C library
+- **[CGTerm](https://github.com/MasterArd/CGTerm)**: C, Go shell/terminal
+- **[Edon.js](https://github.com/waxodium/edon)**: JavaScript runtime that linked with C
 
-### 💻 Used Stacks
+
 ![C](https://img.shields.io/badge/-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Nim](https://img.shields.io/badge/-Nim-FFE953?style=for-the-badge&logo=nim&logoColor=333333)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![GCC](https://img.shields.io/badge/GCC-00599C?style=for-the-badge&logo=gnu&logoColor=white)
@@ -41,25 +37,13 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Nimble](https://img.shields.io/badge/Nimble-FFC200?style=for-the-badge&logo=nim&logoColor=white)
 
----
 
-### 🖥️ Platforms
-
-| Main Platform | Substitute Platform |
-| :---: | :---: |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60" height="60" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nixos/nixos-original.svg" width="60" height="60" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="60" height="60" /> |
-| **Linux + NixOS** | **Arch Linux** |
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="30" height="30" align="center" /> **Arch Linux**
 
 ---
-
-😄 Pronouns: he/him  
-❓ Check my [collections.md](./collections.md)
 
 <div align="center">
 
-<img width="100" height="100" alt="frog" src="https://github.com/user-attachments/assets/ba08403e-a0fa-4c26-a979-363c0ef7c364"/>
-
-Goodbye!
+❓ Check my [collections.md](./collections.md)
 
 </div>

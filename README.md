@@ -1,3 +1,9 @@
+
+
+<img src="https://github.com/user-attachments/assets/aed0ccde-af46-46c6-8300-4923a6b0fddd" alt="nix-btw" width="35%" height="250" />
+
+
+
 ```txt
   Everybody calls me "waxodium"
   Age: 14

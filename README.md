@@ -36,7 +36,7 @@ Where can you see me?
   reddit: waxodium
   discord: waxory
   medium: @waxodium
-  bluesky: https://bsky.app/profile/waxodium.bsky.social
+  bluesky: waxodium.bsky.social
   twitter/X: waxodium
 
 

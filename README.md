@@ -39,16 +39,5 @@ Where can you see me?
   bluesky: waxodium.bsky.social
   twitter/X: waxodium
 
-
-FAQ
-  Q1: Do you code with AI?
-  A1: Moderately, I'm not an Agentic engineer. I still code by hands.
-      Projects that I ACTUALLY written by hands is sout,
-      CTriangle and turgen shell.
-  Q2: Do you use AI other than coding?
-  A2: Yes, for researching. But I tend to limit myself of AI usage such
-      as graphics design and 3d art.
-  Q3: How do you code so fast?
-  A3: With vi/vim/neovim on linux. 
-
+I use vim. 
 ```
